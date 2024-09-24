@@ -1,0 +1,2 @@
+Andrej Karpath lecuture about nn and the core of it.
+I will do my demo on microGrad - which is an auto regressive engine that implement backpropagatio
